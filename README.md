@@ -24,8 +24,8 @@ This is a solution to the [Insure landing page challenge on Frontend Mentor](htt
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://github.com/suruaino/Challenge8.git)
+- Live Site URL:(https://suru-insure.netlify.app/)
 
 ## My process
 
